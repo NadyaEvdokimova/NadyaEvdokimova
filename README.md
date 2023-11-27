@@ -3,4 +3,4 @@ I actively work to identify and analyze potential risks, threats, and vulnerabil
 
 - 👀 I’m interested in cybersecurity and programming.
 - 🌱 I’m currently learning Python.
-- 👁‍🗨 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web Development.
