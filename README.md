@@ -2,4 +2,4 @@ My name is Nadya. Enthusiastic and detail-oriented entry-level Python developer 
 
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web Development and JavaScript.
